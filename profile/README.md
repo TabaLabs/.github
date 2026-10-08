@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="TabaLabs: useful open-source tools, made with care" width="100%">
+  <img src="banner tabalabs.png" alt="TabaLabs: useful open-source tools, made with care" width="100%">
 </p>
 
 <h3 align="center">Small, reliable open-source tools for developers.</h3>
