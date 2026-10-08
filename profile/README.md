@@ -26,7 +26,7 @@ Every project here follows the same rules:
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [**Upnest**](https://github.com/TabaLabs/upnest) | Easy, resumable file uploads: drag & drop, progress, chunked uploads for big files, and resume after a disconnect. React component + Node and Spring Boot server packages. | 🚧 In development |
+| [**Upsure**](https://github.com/TabaLabs/Upsure) | Easy, resumable file uploads: drag & drop, progress, chunked uploads for big files, and resume after a disconnect. React component + Node and Spring Boot server packages. | 🚧 In development |
 
 More tools are on the way.
 
