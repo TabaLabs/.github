@@ -26,7 +26,7 @@ Every project here follows the same rules:
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [**Upsure**](https://github.com/TabaLabs/Upsure) | Easy, resumable file uploads: drag & drop, progress, chunked uploads for big files, and resume after a disconnect. React component + Node and Spring Boot server packages. | 🚧 In development |
+| [**Upsure**](https://github.com/TabaLabs/Upsure) | Easy, resumable file uploads: drag & drop, progress, chunked uploads for big files, and resume after a disconnect. React component + Node and Spring Boot server packages. | ✅ v0.1.0 |
 
 More tools are on the way.
 
